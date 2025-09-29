@@ -77,7 +77,23 @@ If you use this code in your research, please kindly cite the following papers:
   year={2024}
 } 
 ```
+Our codebase borrows from the following:
 
+```
+@inproceedings{bai2023feed,
+      title={Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection}, 
+      author={Haoyue Bai and Gregory Canal and Xuefeng Du and Jeongyeol Kwon and Robert D Nowak and Yixuan Li},
+      booktitle = {International Conference on Machine Learning},
+      year = {2023}
+}
+
+@inproceedings{katz2022training,
+  title={Training Ood Detectors in Their Natural Habitats},
+  author={Katz-Samuels, Julian and Nakhleh, Julia B and Nowak, Robert and Li, Yixuan},
+  booktitle={International Conference on Machine Learning},
+  year={2022}
+}
+```
 ### Contact 
 
 If you have any questions about this project, please feel free to contact [zhulin_sjtu@sjtu.edu.cn](mailto:zhulin_sjtu@sjtu.edu.cn).
