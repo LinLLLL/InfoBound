@@ -4,7 +4,7 @@ Official implementation of [InfoBound: A Provable Information-Bounds Inspired Fr
 
 ### Ads
 
-Checkout our NeurIPS 2025 work：ΔEnergy: Optimizing Energy Change During Vision-Language Alignment Enhances both OOD  Detection and OOD Generalization.
+Checkout our NeurIPS 2025 work：[ΔEnergy: Optimizing Energy Change During Vision-Language Alignment Enhances both OOD  Detection and OOD Generalization](https://neurips.cc/virtual/2025/poster/116579#:~:text=In%20this%20paper%2C%20inspired%20by%20the%20substantial%20energy,introduce%20a%20novel%20OOD%20score%2C%20named%20%CE%94%20Energy.).
 
 ICML 2024 work [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection (openreview.net)](https://openreview.net/pdf?id=xFDJBzPhci) if you are interested in concurrent optimzaition for OOD generalzaition and OOD detection!
 
