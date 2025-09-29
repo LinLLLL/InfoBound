@@ -4,9 +4,9 @@ Official implementation of [InfoBound: A Provable Information-Bounds Inspired Fr
 
 ### Ads
 
-Checkout our NeurIPS2025 work：ΔEnergy: Optimizing Energy Change During Vision-Language Alignment Enhances both OOD  Detection and OOD Generalization.
+Checkout our NeurIPS 2025 work：ΔEnergy: Optimizing Energy Change During Vision-Language Alignment Enhances both OOD  Detection and OOD Generalization.
 
-ICML2024 work [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection (openreview.net)](https://openreview.net/pdf?id=xFDJBzPhci) if you are interested in concurrent optimzaition for OOD generalzaition and OOD detection!
+ICML 2024 work [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection (openreview.net)](https://openreview.net/pdf?id=xFDJBzPhci) if you are interested in concurrent optimzaition for OOD generalzaition and OOD detection!
 
 ### Abstract
 
@@ -24,7 +24,7 @@ In real-world scenarios, distribution shifts give rise to the importance of two 
 
 ### Pipeline
 
-<img src="Figures/image-20250928213408546.png" alt="image-20250928213408546" style="zoom:60%;" /><img src="Figures/image-20250928213431262.png" alt="image-20250928213431262" style="zoom:60%;" />
+<img src="Figures/image-20250928213408546.png" alt="image-20250928213408546" style="zoom:40%;" /><img src="Figures/image-20250928213431262.png" alt="image-20250928213431262" style="zoom:40%;" />
 
 ### How to run
 
@@ -78,4 +78,4 @@ If you use this code in your research, please kindly cite the following papers:
 
 ### Contact 
 
-If you have any question about this project, please feel free to contact [zhulin_sjtu@sjtu.edu.cn](mailto:zhulin_sjtu@sjtu.edu.cn).
+If you have any questions about this project, please feel free to contact [zhulin_sjtu@sjtu.edu.cn](mailto:zhulin_sjtu@sjtu.edu.cn).
