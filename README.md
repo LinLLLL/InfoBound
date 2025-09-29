@@ -14,7 +14,7 @@ In real-world scenarios, distribution shifts give rise to the importance of two 
 
 ### Topic
 
-<img src="Figures/image-20250928213128448.png" alt="image-20250928213128448" style="zoom:30%;" />
+<img src="Figures/image-20250928213128448.png" alt="image-20250928213128448" style="zoom:20%;" />
 
 **Illustration of three types of data encountered in various tasks when deploying models in the open world:** (i) in-distribution data (e.g., driving data in clear weather), (ii) covariate-shifted data (e.g., driving data in rainy weather), and (iii) semantic-shifted data (e.g., hippopotamus). Leveraging the labeled in-distribution (ID) data and the freely available unlabeled OoD data, our framework improved both OoD generalization and OoD detection.
 
@@ -24,11 +24,11 @@ In real-world scenarios, distribution shifts give rise to the importance of two 
 
 ### Pipeline
 
-<img src="Figures/image-20250928213408546.png" alt="image-20250928213408546" style="zoom:30%;" /><img src="Figures/image-20250928213431262.png" alt="image-20250928213431262" style="zoom:30%;" />
+<img src="Figures/image-20250928213408546.png" alt="image-20250928213408546" style="zoom:20%;" /><img src="Figures/image-20250928213431262.png" alt="image-20250928213431262" style="zoom:20%;" />
 
 ### How to run
 
-This code of image classification is built on top of the awesome [SCONE](https://github.com/deeplearning-wisc/scone) . For dataset preparation and pretrained models, please refer to the [SCONE](https://github.com/deeplearning-wisc/scone) repository.
+The code of image classification is built on top of the awesome [SCONE](https://github.com/deeplearning-wisc/scone). For dataset preparation and pretrained models, please refer to the [SCONE](https://github.com/deeplearning-wisc/scone) repository.
 
 To run the code, execute:
 
