@@ -24,9 +24,7 @@ In real-world scenarios, distribution shifts give rise to the importance of two 
 
 ### Pipeline
 
-<img src="Figures/image-20250928213408546.png" alt="image-20250928213408546" style="zoom:20%;" />
-
-<img src="Figures/image-20250928213431262.png" alt="image-20250928213431262" style="zoom:20%;" />
+<img src="Figures/image-20250928213408546.png" alt="image-20250928213408546" style="zoom:10%;" />
 
 ### How to run
 
