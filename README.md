@@ -4,7 +4,7 @@ Official implementation of [InfoBound: A Provable Information-Bounds Inspired Fr
 
 ### Ads
 
-Checkout our NeurIPS 2025 work：[ΔEnergy: Optimizing Energy Change During Vision-Language Alignment Enhances both OOD  Detection and OOD Generalization](https://neurips.cc/virtual/2025/poster/116579#:~:text=In%20this%20paper%2C%20inspired%20by%20the%20substantial%20energy,introduce%20a%20novel%20OOD%20score%2C%20named%20%CE%94%20Energy.).
+Checkout our NeurIPS 2025 work：[ΔEnergy: Optimizing Energy Change During Vision-Language Alignment Enhances both OOD  Detection and OOD Generalization](https://arxiv.org/pdf/2510.11296).
 
 ICML 2024 work [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection (openreview.net)](https://openreview.net/pdf?id=xFDJBzPhci) if you are interested in concurrent optimzaition for OOD generalzaition and OOD detection!
 
@@ -22,9 +22,6 @@ In real-world scenarios, distribution shifts give rise to the importance of two 
 
 ![image-20250928213258102](Figures/image-20250928213258102.png)
 
-### Pipeline
-
-<img src="Figures/image-20250928213408546.png" alt="image-20250928213408546" style="zoom:10%;" />
 
 ### How to run
 
@@ -43,7 +40,7 @@ To extract and visualize the latent features during the training process,  pleas
 
 1.Release the code of CLIP-based experiments
 
-2.Release the code of object detection
+2. ~~*Release the code of object detection*~~ The InfoBound object detection code is available at: https://github.com/LinLLLL/InfoBound_Detection
 
 ### Results
 
